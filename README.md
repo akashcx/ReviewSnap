@@ -1,4 +1,4 @@
-# Review Snap (HTML, CSS, Bootstrap, Beautiful Soup, OpenAI, Flask)
+# Review Snap
 
 ![review-1](https://user-images.githubusercontent.com/59217041/213897674-296eca2a-7bc9-46eb-b17a-8c4350a530bb.png)
 
